@@ -19,4 +19,5 @@ these concepts to machine learning.
 * Transformation Matrix
 * Linear Algebra
 
-[Coursera 36CK2JXDEEQL.pdf](https://github.com/AndreasDeSousa/Mathematics_for_Machine_Learning_Specialization/files/7331399/Coursera.36CK2JXDEEQL.pdf)
+![image](https://user-images.githubusercontent.com/33997173/136988125-4db5af51-6713-4617-b5d5-6b0684a39926.png)
+
