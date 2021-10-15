@@ -11,3 +11,6 @@ This course offers a brief introduction to the multivariate calculus required to
 * Vector Calculus
 * Multivariable Calculus
 * Gradient Descent
+
+
+![image](https://user-images.githubusercontent.com/33997173/137475627-2f0637eb-bf1d-4173-9cd9-1488036c3dc9.png)
