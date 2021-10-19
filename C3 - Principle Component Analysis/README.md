@@ -28,3 +28,7 @@ Disclaimer: This course is substantially more abstract and requires more program
 * Dimensionality Reduction
 * Python Programming
 * Linear Algebra
+
+
+![image](https://user-images.githubusercontent.com/33997173/137836838-1d3f01ad-be7e-46a9-b6bf-cb3db9215e3f.png)
+
