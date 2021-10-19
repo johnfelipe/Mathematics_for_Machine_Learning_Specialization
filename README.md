@@ -46,5 +46,5 @@ Through the assignments of this specialisation you will use the skills you have 
 * Mathematics for Machine Learning: PCA
 
 
-![image](https://user-images.githubusercontent.com/33997173/137836972-c7930783-5d48-4632-b852-0afc14c2a788.png)
+![image](https://user-images.githubusercontent.com/33997173/137837113-b927a1fc-33e5-4de1-991c-5d862c730acd.png)
 
